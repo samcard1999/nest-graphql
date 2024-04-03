@@ -4,22 +4,22 @@
 
 # Dev
 
-1.Clonar el proyecto
+1.Clone the project
 
-2.Copiar ```env.template``` y renombrar a ```.env```
+2.Copy ```env.template``` and rename to ```.env```
 
-3.Ejecutar
+3.Execute
 ``` 
 yarn install
 ```
-4.Levantar la imagen (Docker Desktop)
+4.Load the image (Docker Desktop)
 
-5.Levantar el Backend de Nest 
+5.Load Nest backend 
 ```
 yarn start:dev
 ```
-6.Visitar el sitio 
+6.Go to site: 
 ```
 localhost:3000/graphql
 ```
-7. Ejecutar la __@Mutation__ executeSeed, para llenar la base de datos con informacion
+7. Execute __@Mutation__ executeSeed, to fill the database with information.
